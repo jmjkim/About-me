@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jmjkim, a Korean American individual currently living in the Bay Area, California.
-- 👀 I’m interested in Data Analysis using Python.
+- 👀 I’m interested in data analysis using Python.
 - 🌱 I’m currently self-teaching data analysis by working on diffrent types of small data analysis projects.
 - 💞️ I’m open to collaborating a beginner level data analysis project with anyone who is passionate about it.
 - 📫 How to reach me -> jmjkim00@icloud.com
