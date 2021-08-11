@@ -3,8 +3,3 @@
 - 🌱 I’m currently self-teaching data analysis by working on diffrent types of small data analysis projects.
 - 💞️ I’m open to collaborating a beginner level data analysis project with anyone who is passionate about it.
 - 📫 How to reach me -> jmjkim00@icloud.com
-
-<!---
-jmjkim/jmjkim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
