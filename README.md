@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmjkim, a Korean American individual currently living in the Bay Area, California.
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently taking a Software Engineering Immersive at Flatiron School.
+- 👋 Hi, I’m @jmjkim, A Korean American individual currently living in the Bay Area, California.
+- 👀 I’m interested in Software Engineering Backend.
+- 🌱 I’m currently taking an online Software Engineering Course at Flatiron School.
 - 📫 How to reach me -> jmjkim00@icloud.com
